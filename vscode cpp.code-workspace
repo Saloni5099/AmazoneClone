@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/hp/vscode cpp"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
